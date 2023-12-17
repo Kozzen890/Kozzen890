@@ -7,7 +7,7 @@ Student and Developer
 I am a student who wants to be a programmer in the future. I like to work hard and solve problems.
 
 * 🌍  I'm based in Semarang, Indonesia
-* 🖥️  See my portfolio at [here](http://https://kozzen890.github.io/)
+* 🖥️  See my portfolio at [here](https://kozzen890.github.io)
 * 🧠  I'm learning React & Golang
 * 🤝  I'm open to collaborating on another project especially in web development
 
